@@ -17,6 +17,10 @@
     "react-scripts": "3.4.3",
     "serve": "^11.3.2"
   },
+  "engines": {
+    "node": ">=6.x.x",
+    "npm": ">=3.9.5"
+  },
   "scripts": {
     "dev": "react-scripts start",
     "start": "serve -s build",
